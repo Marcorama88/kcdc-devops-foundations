@@ -10,6 +10,11 @@ on:
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        dotnet: ['10.0.x', '9.0.x']
+
     steps:
       - name: Check out code
         uses: actions/checkout@v4
