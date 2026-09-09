@@ -1,3 +1,4 @@
+![CI](https://github.com/Marcorama88/kcdc-devops-foundations/actions/workflows/ci.yml/badge.svg)
 # DevOps Foundations: From Code Commit to Production Confidence
 
 Hands-on workshop · [KCDC](https://www.kcdc.info) · 4 hours · Vaibhav Gujral
